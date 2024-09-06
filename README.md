@@ -18,7 +18,7 @@ Act 4 trabajando con lista, tuplas, conjuntos y diccionarios
 ## Los conjuntos
 - El codigo
 
-- ![image](https://github.com/user-attachments/assets/8570f488-6fa0-41a7-8579-aebe0ee894a3)
+![image](https://github.com/user-attachments/assets/8570f488-6fa0-41a7-8579-aebe0ee894a3)
 - El resultado
 
 ![image](https://github.com/user-attachments/assets/a074d1a9-05c6-4eb1-a538-dc2bc95109cd)
